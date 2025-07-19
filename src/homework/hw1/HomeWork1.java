@@ -15,7 +15,7 @@ public class HomeWork1 {
 
         String name = scanner.next();
 
-        System.out.println("Привет, "  + name);
+        System.out.println("Привет, " + name);
 
         scanner.close();
     }
